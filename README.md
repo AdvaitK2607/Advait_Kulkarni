@@ -1,25 +1,69 @@
 <h1 align="center">Hi 👋, I'm Advait Kulkarni</h1>
 <h3 align="center">Passionate C++ and Python Programmer | Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on [CTGAN-based-Asthma-disease-prediction-model](https://github.com/AdvaitK2607/CTGAN-based-Asthma-disease-prediction-model)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Advait_Kulkarni-blue?style=flat&logo=linkedin)](https://linkedin.com/in/advait-kulkarni-41a13427b)
+[![LeetCode](https://img.shields.io/badge/LeetCode-advait26-orange?style=flat&logo=leetcode)](https://leetcode.com/advait26)
+[![Email](https://img.shields.io/badge/Email-kulkarniadvait93@gmail.com-red?style=flat&logo=gmail)](mailto:kulkarniadvait93@gmail.com)
+  
+</div>
 
-- 🌱 I’m currently learning **Generative AI,Web Development**
+---
 
-- 👯 I’m looking to collaborate on **Real and Fake News Classifier**
+### 🔭 Current Project
+[![CTGAN Asthma Prediction](https://img.shields.io/badge/CTGAN-Asthma_Prediction_Model-blueviolet)](https://github.com/AdvaitK2607/CTGAN-based-Asthma-disease-prediction-model)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AdvaitK2607](https://github.com/AdvaitK2607)
+### 🌱 Learning Journey
+- Generative AI
+- Web Development
 
-- 💬 Ask me about **Machine Learning , Data Cleaning , EDA**
+### 👯 Collaboration Interests
+Real and Fake News Classifier projects
 
-- 📫 How to reach me **kulkarniadvait93@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xFL_S8C5Stl3JGmRWZXEuOZDzIf_udgx/view?usp=share_link](https://drive.google.com/file/d/1xFL_S8C5Stl3JGmRWZXEuOZDzIf_udgx/view?usp=share_link)
+### 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/advait-kulkarni-41a13427b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/advait-kulkarni-41a13427b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/advait26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="advait26" height="30" width="40" /></a>
-</p>
+<div align="center">
+  
+**Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Web Development**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**Data Science**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Machine Learning**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+**Database**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+### 📂 Portfolio
+All my projects are available at [github.com/AdvaitK2607](https://github.com/AdvaitK2607)
+
+### 📄 Resume
+[View my resume](https://drive.google.com/file/d/1xFL_S8C5Stl3JGmRWZXEuOZDzIf_udgx/view)
+
+---
+
+<div align="center">
+  
+![Visitor Count](https://profile-counter.glitch.me/AdvaitK2607/count.svg)
+
+</div>
