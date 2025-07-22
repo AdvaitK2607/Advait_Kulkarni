@@ -58,7 +58,7 @@ Real and Fake News Classifier projects
 All my projects are available at [github.com/AdvaitK2607](https://github.com/AdvaitK2607)
 
 ### 📄 Resume
-[View my resume](https://drive.google.com/file/d/1xFL_S8C5Stl3JGmRWZXEuOZDzIf_udgx/view)
+[View my resume](https://drive.google.com/file/d/1L43itilOteL7oeVuGFsAeY7kTiypfljg/view?usp=share_link)
 
 ---
 
